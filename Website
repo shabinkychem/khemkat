@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>KhemKat</title>
+  <style>
+    body { text-align: center; font-family: "Comic Sans MS", sans-serif; }
+    a { font-size: 24px; margin: 0 40px; text-decoration: none; color: #0074D9; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>KhemKat</h1>
+
+  <!-- Cat + lab image -->
+  <img src="khemkat.png" alt="KhemKat" width="300">
+
+  <div style="margin-top: 80px;">
+    <a href="videoz.html">Videoz</a>
+    <a href="stuffz.html">Stuffz</a>
+    <a href="contactz.html">Contactz</a>
+  </div>
+</body>
+</html>
